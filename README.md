@@ -1,2 +1,1 @@
-# VibeNest inert safety fixtures
-These files contain only literal test data. They do not implement networking, a VPN, a proxy, or a tunnel. The category branch is used for a provider-free launch-check. Nothing from this repository should be deployed.
+Metadata-only security acceptance fixture. DO NOT BUILD OR RUN. The Dockerfile and shell text reproduce a static detector case; only the provider-free launch-check endpoint may inspect this source. No deployment or container is authorized.
